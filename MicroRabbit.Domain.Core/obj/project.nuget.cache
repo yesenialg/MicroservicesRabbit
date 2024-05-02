@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LfZFZ8alULgh9a24OrMUxuP7iiR07I8ImIPjPJm0tv3TYEzM0weSblaAgTzq4ghbQe034HEsFiipbL0Qg7YUYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Proyectos\\2CleanArchitecture_Microservices_RabbitMQ\\MicroservicesRabbitMQ\\MicroservicesRabbitMQ\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yesenia\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\Yesenia\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Yesenia\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
